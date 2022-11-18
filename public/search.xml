@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>自动部署</title>
+      <link href="/2022/11/19/js/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/"/>
+      <url>/2022/11/19/js/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="测试自动部署-Hexo"><a href="#测试自动部署-Hexo" class="headerlink" title="测试自动部署 Hexo"></a>测试自动部署 Hexo</h1><p>github actions</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> JavaScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript 前端 全栈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>预编译</title>
       <link href="/2022/01/27/js/%E9%A2%84%E7%BC%96%E8%AF%91/"/>
       <url>/2022/01/27/js/%E9%A2%84%E7%BC%96%E8%AF%91/</url>
