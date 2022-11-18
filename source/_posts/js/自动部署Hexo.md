@@ -7,3 +7,5 @@ cover: /img/6.jpg
 ---
 
 # 测试自动部署 Hexo
+
+github actions
