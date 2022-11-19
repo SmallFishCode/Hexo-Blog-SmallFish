@@ -45,9 +45,6 @@ jobs:
               run: |
                   hexo clean
                   hexo generate
-                  hexo deploy
-                  git config --global user.name "yuzhaojun"
-                  git config --global user.email "3226033807@qq.com"
 
             # - name: 部署到github pages
             #   run: |
