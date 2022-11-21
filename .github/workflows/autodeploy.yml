@@ -45,6 +45,7 @@ jobs:
               run: |
                   hexo clean
                   hexo generate
+                  hexo deploy
 
             # - name: 部署到github pages
             #   run: |
