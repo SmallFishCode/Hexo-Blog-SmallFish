@@ -65,5 +65,5 @@ jobs:
                   pass: ${{ secrets.USER_PASS }}
                   connect_timeout: 10s
                   local: './.deploy_git/*'
-                  port: 80
+                  port: 22
                   remote: /www/wwwroot/smallfish.space
