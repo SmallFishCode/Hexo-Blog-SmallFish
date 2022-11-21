@@ -43,10 +43,8 @@ jobs:
 
             - name: 生成静态文件
               run: |
-                  git config --global user.name "yuzhaojun"
-                  git config --global user.email "3226033807@qq.com"
                   hexo clean
-                  hexo deploy
+                  hexo generate
 
             # - name: 部署到github pages
             #   run: |
@@ -66,6 +64,6 @@ jobs:
                   host: ${{ secrets.USER_HOST }}
                   user: ${{ secrets.USER_NAME }}
                   connect_timeout: 60s
-                  local: './deploy_git/'
+                  local: './public/'
                   port: 22
                   remote: /www/wwwroot/smallfish.space
