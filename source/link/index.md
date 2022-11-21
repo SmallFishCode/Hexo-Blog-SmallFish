@@ -1,5 +1,3 @@
-{% flink %}
-
 -   class_name: MyFriends
     class_desc: 苟富贵兄弟们
     link_list:
