@@ -2,7 +2,7 @@
 title: 自动部署
 date: 2022/11/22 0:10:00
 tags: 前端 工程化 自动部署
-categories: JavaScript
+categories: 工程化
 cover: /img/6.jpg
 ---
 
