@@ -1,6 +1,9 @@
----
-title: MyFriends
-date: 2022-01-24 02:04:09
-type: "link" 
-top_img: /img/1.jpg
----
+{% flink %}
+
+-   class_name: MyFriends
+    class_desc: 苟富贵兄弟们
+    link_list:
+    -   name: 帅气芳芳
+        link:
+        avatar:
+        descr: 帅气的网易小哥哥
