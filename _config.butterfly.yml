@@ -304,7 +304,7 @@ valine:
     appId: LM9Y6HlevqNlrrVeF9Mbadg6-MdYXbMMI # leancloud application app id
     appKey: 1yB8S3wvOq2gPniXYl2blEnj # leancloud application app key
     avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-    serverURLs: smallfish.space # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+    # serverURLs: smallfish.space # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
     bg: # valine background
     visitor: true
     option:
