@@ -29,7 +29,7 @@ aside: false
 
 `HTML` `CSS` `JS` `Vue` `React` `Svelte` `Webpack` `Vite` `Git` `Node` `Koa` ...
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="../img/code.gif" width="430" height="100%" />
 
 ## 个人仓库
 
