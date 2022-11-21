@@ -309,13 +309,13 @@ valine:
     visitor: false
     option:
 
-# waline - A simple comment system with backend support fork from Valine
-# https://waline.js.org/
-# waline:
-#   serverURL: https://my-blog-9an42n4wj-smallfishcode.vercel.app
-#   bg:
-#   visitor: false
-#   option:
+waline - A simple comment system with backend support fork from Valine
+https://waline.js.org/
+waline:
+  serverURL: https://my-blog-9an42n4wj-smallfishcode.vercel.app
+  bg:
+  visitor: false
+  option:
 
 # utterances
 # https://utteranc.es/
