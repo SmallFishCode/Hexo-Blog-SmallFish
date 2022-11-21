@@ -305,7 +305,7 @@ valine:
     appKey: 1yB8S3wvOq2gPniXYl2blEnj # leancloud application app key
     avatar: monsterid # gravatar style https://valine.js.org/#/avatar
     serverURLs: https://lm9y6hle.api.lncldglobal.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-    bg: # valine background
+    bg: FF00CC # valine background
     visitor: true
     option:
 
