@@ -1,0 +1,9 @@
+.vcard 
+  {
+    width: 100% !important
+  }
+  
+.vquote .vcard 
+  {
+    margin: 0px !important
+  }
