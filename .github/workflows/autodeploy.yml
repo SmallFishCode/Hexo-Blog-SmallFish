@@ -61,10 +61,10 @@ jobs:
               uses: cross-the-world/scp-pipeline@master
               with:
                   SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }} #这个是阿里云的私钥
-                  host: ${{ secrets.USER_HOST }}
-                  user: ${{ secrets.USER_NAME }}
+                  REMOTE_HOST: ${{ secrets.USER_HOST }}
+                  REMOTE_USER: ${{ secrets.USER_NAME }}
                   pass: ${{ secrets.USER_PASS }}
                   connect_timeout: 10s
-                  local: './.deploy_git/*'
+                  SOURCE: './.deploy_git/*'
                   port: 22
-                  remote: /www/wwwroot/smallfish.space
+                  TARGET: /www/wwwroot/smallfish.space
