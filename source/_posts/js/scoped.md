@@ -1,7 +1,7 @@
 ---
 title: JS作用域(一)
 date: 2022/01/24 17:45
-tags: JavaScript 前端 全栈
+tags: JavaScript
 categories: JavaScript
 cover: /img/6.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: 自动部署
 date: 2022/11/22 0:10:00
-tags: 前端 工程化 自动部署
+tags: 工程化 自动部署
 categories: 工程化
 cover: /img/6.jpg
 ---
@@ -16,4 +16,4 @@ Hello，我是小鱼。
 
 在后面我会介绍到整个改造的流程以及关于 github actions 的简单介绍和用法讲解~
 
-## 什么是 CI/CD ？
+# 什么是 CI/CD ？

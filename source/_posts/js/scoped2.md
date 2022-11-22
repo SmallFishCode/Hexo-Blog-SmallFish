@@ -2,7 +2,7 @@
 title: JS作用域进阶
 date: 2022/01/25 05:02
 categories: JavaScript
-tags: JavaScript 前端 全栈
+tags: JavaScript
 cover: /img/6.jpg
 ---
 
