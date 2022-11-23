@@ -90,10 +90,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: 
+index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img:
 
 # The banner image of archive page
 archive_img:
@@ -495,8 +495,8 @@ theme_color:
     #   code_foreground: "#F47466"
     #   code_background: "rgba(27, 31, 35, .05)"
     toc_color: '#858585'
-    blockquote_padding_color: "rgba(33, 33, 34, .3)"
-    blockquote_background_color: "rgba(33, 33, 34, .3)"
+    blockquote_padding_color: 'rgba(33, 33, 34, .3)'
+    blockquote_background_color: 'rgba(33, 33, 34, .3)'
     scrollbar_color: 'rgba(33, 33, 34, .5)'
 
 # The top_img settings of home page
@@ -518,7 +518,7 @@ tag_ui: # 留空或 index
 background: url(/img/bg2.jpg)
 
 # Footer Background
-footer_bg: 
+footer_bg:
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -586,7 +586,7 @@ ClickShowText:
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
