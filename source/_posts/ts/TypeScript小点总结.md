@@ -3,7 +3,7 @@ title: TypeScript 小点总结
 date: 2022/11/22 22:12:00
 tags: TypeScript 
 categories: TypeScript
-cover: /img/6.jpg
+cover: /img/bg.jpg
 ---
 
 # TypeScript 小点归纳总结

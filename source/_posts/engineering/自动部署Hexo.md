@@ -1,9 +1,9 @@
 ---
 title: 自动部署
 date: 2022/11/22 0:10:00
-tags: 工程化 自动部署
+tags: 工程化
 categories: 工程化
-cover: /img/6.jpg
+cover: /img/bg3.jpg
 ---
 
 # 前言

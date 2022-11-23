@@ -3,7 +3,7 @@ title: TypeScript 基础篇(一)
 date: 2022/11/23 16:14:00
 tags: TypeScript 
 categories: TypeScript
-cover: /img/6.jpg
+cover: /img/bg.jpg
 ---
 
 # TypeScript 基础篇（一）

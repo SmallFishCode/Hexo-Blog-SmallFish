@@ -3,7 +3,7 @@ title: Nvm 入门
 date: 2022/11/22 13:31:00
 tags: 工程化 
 categories: 工程化
-cover: /img/6.jpg
+cover: /img/bg3.jpg
 ---
 
 # 11.21

@@ -2,7 +2,7 @@
 title: 小鱼简介
 date: 2022-01-24 02:19:09
 type: 'about'
-top_img: /img/1.jpg
+top_img: /img/home.jpeg
 comments: true
 aside: false
 ---
