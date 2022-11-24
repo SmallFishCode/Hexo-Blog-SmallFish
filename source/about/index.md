@@ -21,6 +21,7 @@ aside: false
 ## 社交主页
 
 -   Gitee：https://gitee.com/small-fish-code (2022 年 11 月 Gitee 迁移至 Github)
+-   Github: https://github.com/SmallFishCode
 -   LeetCode：https://leetcode.cn/u/zjtdyzj
 -   牛客网：https://www.nowcoder.com/users/129889778
 -   个人博客：http://smallfish.space
@@ -36,6 +37,7 @@ aside: false
 ### 源码系列
 
 -   myWebpack：https://github.com/SmallFishCode/myWebpack
+-   myVite： https://github.com/SmallFishCode/MyVite
 -   myKoa：https://github.com/SmallFishCode/myKoa
 
 ### 开源组件
