@@ -1,8 +1,0 @@
-{
-    "picgo.customUploadName": "${dateTime}_${mdFileName}",
-    "picgo.picBed.current": "github",
-    "picgo.picBed.github.customUrl": "https://raw.githubusercontent.com/SmallFishCode/PicGo/master",
-    "picgo.picBed.github.branch": "master",
-    "picgo.picBed.github.repo": "SmallFishCode/PicGo",
-    "picgo.picBed.github.token": "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"
-}
