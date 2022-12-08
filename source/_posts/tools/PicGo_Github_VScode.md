@@ -26,7 +26,7 @@ cover: /img/bg10.jpg
 
 -   我们需要配置以下几个选项：
 
-![2022-12-04_PicGo_Github_VScode](https://raw.githubusercontent.com/SmallFishCode/PicGo/master/2022-12-04_PicGo_Github_VScode)
+![2022-12-08-18-03-04_PicGo_Github_VScode](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-08-18-03-04_PicGo_Github_VScode)
 
 # 3. Github
 
@@ -34,10 +34,10 @@ cover: /img/bg10.jpg
 
 -   获取 token，打开 settings，看到如下：
 
-![2022-12-04-01-13-31_PicGo_Github_VScode](https://raw.githubusercontent.com/SmallFishCode/PicGo/master/2022-12-04-01-13-31_PicGo_Github_VScode)
+![2022-12-08-18-02-21_PicGo_Github_VScode](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-08-18-02-21_PicGo_Github_VScode)
 
 -   此时，点击右侧新建 token，设置过期时间，选中第一个：
 
-![2022-12-04-01-16-16_PicGo_Github_VScode](https://raw.githubusercontent.com/SmallFishCode/PicGo/master/2022-12-04-01-16-16_PicGo_Github_VScode)
+![2022-12-08-18-02-51_PicGo_Github_VScode](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-08-18-02-51_PicGo_Github_VScode)
 
 -   最后将得到的 token 填入到第二步配置中就好啦！
