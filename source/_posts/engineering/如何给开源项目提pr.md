@@ -38,6 +38,10 @@ git push origin xxx
 
 ![2022-12-15-14-53-04_如何给开源项目提pr](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-15-14-53-04_如何给开源项目提pr)
 
+7. tips: 在开发的过程中，要注意该开源项目是否有更新的代码，如下图同步最新代码
+
+![2022-12-15-15-12-00_如何给开源项目提pr](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-15-15-12-00_如何给开源项目提pr)
+
 # 3.总结
 
 希望本文能帮助到各位想参与开源社区建设的小伙伴们 ~
