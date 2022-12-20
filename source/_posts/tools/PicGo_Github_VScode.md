@@ -28,6 +28,14 @@ cover: /img/bg10.jpg
 
 ![2022-12-08-18-03-04_PicGo_Github_VScode](https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo/2022-12-08-18-03-04_PicGo_Github_VScode)
 
+-   此处自定义域名可以使用如下的链接，国内访问更快！
+
+```js
+https://cdn.jsdelivr.net/gh/SmallFishCode/PicGo
+
+https://cdn.jsdelivr.net/gh/用户名/仓库名
+```
+
 # 3. Github
 
 -   我们打开 github 新建一个仓库，将信息填入到第二步当中的配置中
